@@ -1,0 +1,19 @@
+# Environment variables / API keys
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
